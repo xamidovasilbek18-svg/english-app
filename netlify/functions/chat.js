@@ -5,7 +5,7 @@ exports.handler = async (event) => {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      "Authorization": "Bearer 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"
+      "Authorization": "Bearer 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"
     },
     body: JSON.stringify({
       model: "openrouter/free",
